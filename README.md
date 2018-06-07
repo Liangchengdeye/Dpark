@@ -24,7 +24,7 @@ $ python wc.py -m host[:port]
 1:https://blog.csdn.net/ns2250225/article/details/43484369
 2:dpark和spark区别https://blog.csdn.net/sanqima/article/details/51201067
 3：官方资料https://github.com/jackfengji/test_pro/wiki
-#---------------------------------------------------------------------------------------------------------------------------------------#
+<br>#---------------------------------------------------------------------------------------------------------------------------------------#
 关于本例：./Dpark/Dpark_Test 目录为网上demo，一个是PI值估算，一个是wordcount；
 ./Dpark/DparkAndSpark 目录主要解析网页访问请求'127.0.0.1 - - [01/Aug/1995:00:00:01 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1839'
 解析不同状态等信息获取所需消息。
